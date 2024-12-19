@@ -1,9 +1,9 @@
-import nltk 
+import nltk
 
 from nltk.tokenize import word_tokenize
 from nltk.util import ngrams
 
-sentence = "I am a AMANDA"
-tokenize = word_tokenize(sentence)
-bigram = list(ngrams(tokenize, 5))
-print("tokenize: ", bigram)
+sentence = "I am a princess"
+token = word_tokenize(sentence)
+grams = list(ngrams(token, 2))
+print("grams:", grams)
