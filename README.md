@@ -1,4 +1,4 @@
-# Codedex_py
+
 
 <span style="color: red;">this is how I installed py by this command:</span>     
 
@@ -21,7 +21,7 @@
 Natural Language Toolkit    
 NLTK is a leading platform for building Python programs to work with human language data.  It provides easy-to-use interfaces to over 50 corpora and lexical resources      
 
-## **Project Title**
+## ** Codedex_py**
 
 Project Title is a description of the project and its purpose.
 
@@ -81,37 +81,7 @@ Thank you to all the contributors for their hard work and dedication to the proj
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
 
-## **FAQ**
 
-**Q:** What is Project Title?
 
-**A:** Project Title is a project that does something useful.
-
-**Q:** How do I install Project Title?
-
-**A:** Follow the installation steps in the README file.
-
-**Q:** How do I use Project Title?
-
-**A:** Follow the usage steps in the README file.
-
-**Q:** How do I contribute to Project Title?
-
-**A:** Follow the contributing guidelines in the README file.
-
-**Q:** What license is Project Title released under?
-
-**A:** Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
-## **Changelog**
-
-- **0.1.0:** Initial release
-- **0.1.1:** Fixed a bug in the build process
-- **0.2.0:** Added a new feature
-- **0.2.1:** Fixed a bug in the new feature
-
-## **Contact**
-
-If you have any questions or comments about Project Title, please contact **[Your Name](you@example.com)**.
 
 ## **Conclusion**
