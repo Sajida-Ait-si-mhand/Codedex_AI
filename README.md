@@ -3,6 +3,9 @@
 
 this is how I installed py by this command:
 
+
+
+   
 ## **Installation**
 To install Project Title, follow these steps:
 
@@ -13,9 +16,8 @@ To install Project Title, follow these steps:
 5. pip install --user nltk 
 
 
-![Alt Text](/home/saait-si/Downloads/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥 ᖭ<0f72>༏ᖫ<0f80>.gif)
 
-
+               
 ## **More info about nltk**
 
 Natural Language Toolkit    
